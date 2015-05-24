@@ -1,2 +1,3 @@
-# then-and-now
-A library to show then and now photos.
+# Then and now
+
+A one hour demo to show then and now photos with a draggable solution.
